@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Harald Melin"
-  avatar           : "profile.png"
+  avatar           : "DSC00260.jpg"
   bio              : "Phd student in CS and Comp. Bio. with focus on Bayesian Phylogenetics for metastatic cancer. "
   location         : "Lagergren Lab, KTH, Stockholm"
   employer         :
@@ -197,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_.: true
       read_time: true
       comments: true
       share: true
