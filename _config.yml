@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harald Melin, Phd student "
+title                    : "Harald Melin, PhD student at KTH "
 title_separator          : "-"
 name                     : &name "Harald Melin"
 description              : &description "PhD student at Lagergren Lab, KTH, with focus on probabilistic ML and cancer phylogenetics."
