@@ -46,7 +46,7 @@ with [Oskar Kviman](https://okviman.github.io/), [Hazal Koptagel](https://schola
 
 Teaching
 ========
-I am the main teaching assistant in [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) at KTH. 
+I have worked as teacher and TA in [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) at KTH. 
 The course focuses on probabilistic Machine Learning, mainly from the Bayesian perspective, and covers topics such as
 algorithms for learning on probabilistic graphical models, CAVI, Stochastic VI, Black-Box VI and Variational Autoencoders.
 My responsibilities include holding lectures and exercise sessions, developing course content and examining material for the course.
